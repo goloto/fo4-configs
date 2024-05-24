@@ -1,0 +1,5 @@
+gr quality 3
+gr grid 12
+gr scale .8
+gr maxcascade 1
+cl rim 0.0025
